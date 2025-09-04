@@ -1,0 +1,52 @@
+commit d427d40458110354b791f6e3c6137c62b067b06a
+Merge: f99bdc4 f253935
+Author: Alexander <alexander891622gmail.com>
+Date:   Thu Sep 4 13:42:03 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit f2539358a7772174dbb06950ea89b33ff2103a92
+Author: Alexander <alexander891622gmail.com>
+Date:   Thu Sep 4 13:41:24 2025 -0700
+
+    Added new div to index.html
+
+commit f99bdc4106223cbfde14a8abe2eb96a914f94b45
+Author: Alexander <alexander891622gmail.com>
+Date:   Thu Sep 4 13:26:56 2025 -0700
+
+    Added branch index-fix
+
+commit e632ba303501b7f5fb42cde0bb24efa7b3d146ed
+Merge: ba62f83 6b94d36
+Author: Alexander <alexander891622gmail.com>
+Date:   Wed Sep 3 13:15:53 2025 -0700
+
+    Merge branch 'main' of https://github.com/alexander89162/CS3338-second-project
+
+commit ba62f83a227adcd360bea40e01fe86f270f901ce
+Author: Alexander <alexander891622gmail.com>
+Date:   Wed Sep 3 13:13:13 2025 -0700
+
+    Added a README to main branch
+
+commit 6b94d36c76d093fd8c307db52662e88bf5847825
+Merge: 1d2bfc0 da57385
+Author: alexander89162 <acc.arknew@gmail.com>
+Date:   Wed Sep 3 13:06:16 2025 -0700
+
+    Merge pull request #1 from alexander89162/info-fill
+    
+    Filled in the blanks
+
+commit da5738587b924e964c5fc0f73622f2dc91adf844
+Author: Alexander <alexander891622gmail.com>
+Date:   Wed Sep 3 12:53:27 2025 -0700
+
+    Filled the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
